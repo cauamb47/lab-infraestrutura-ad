@@ -49,20 +49,6 @@ Cada chamado foi tratado como um ticket real de service desk, com
 diagnóstico, causa raiz e solução documentados. A lista completa está
 na pasta [`/tickets`](./tickets):
 
-1. [Acesso a pasta de outro departamento](./tickets/ticket-001-acesso-pasta-rh.md)
-2. [Conta de usuário bloqueada](./tickets/ticket-002-conta-bloqueada.md)
-3. [Pasta de rede já existente / orientação de acesso](./tickets/ticket-003-pasta-ti-gpo.md)
-4. [Unidade de rede mapeada desapareceu](./tickets/ticket-004-mapeamento-sumiu.md)
-5. [Computador lento — diagnóstico de desempenho](./tickets/ticket-005-computador-lento.md)
-6. [Fila de impressão travada](./tickets/ticket-006-impressora-travada.md)
-7. [Onboarding de novo funcionário](./tickets/ticket-007-onboarding.md)
-8. [Offboarding / desligamento de funcionário](./tickets/ticket-008-offboarding.md)
-9. [Suspeita de phishing](./tickets/ticket-009-phishing.md)
-10. [Tentativa de configuração de acesso remoto (RDP)](./tickets/ticket-010-acesso-remoto.md)
-11. [Outlook pedindo senha repetidamente](./tickets/ticket-011-outlook-senha.md)
-12. [Relatório de acesso para auditoria](./tickets/ticket-012-auditoria-acessos.md)
-13. [Transferência de departamento](./tickets/ticket-013-transferencia-departamento.md)
-
 
 ## Tecnologias e conceitos utilizados
 
